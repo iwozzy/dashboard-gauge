@@ -1,0 +1,22 @@
+{
+	"name": "dashboard-gauge",
+	"description": "A simple javascript library for creating canvas based gauges for use in dashboards.",
+	"main": "dashboard-gauge.js",
+	"keywords": [
+		"gauge",
+		"dashboard",
+		"visualization",
+		"data"
+	],
+	"authors": [
+		{
+			"name": "Paul Wozniak",
+			"email": "wozniak.paull@gmail.com",
+			"homepage": "http://blog.iwozzy.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/iwozzy/dashboard-gauge.git"
+	}
+}
