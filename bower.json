@@ -1,7 +1,7 @@
 {
 	"name": "dashboard-gauge",
 	"description": "A simple javascript library for creating canvas based gauges for use in dashboards.",
-	"main": "dashboard-gauge.js",
+	"main": "dist/dashboard-gauge.min.js",
 	"keywords": [
 		"gauge",
 		"dashboard",
